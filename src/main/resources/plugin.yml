@@ -1,0 +1,8 @@
+name: StatsTest
+version: '${project.version}'
+main: dev.myclxss.StatsTest
+author: myclxss
+
+commands:
+  estadisticas:
+    description: asd
